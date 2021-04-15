@@ -7,7 +7,7 @@ Currently, I am free for any suggestions.
 
 
 ##### What I am studying:
-- I'm improving my knowledges on > JavaScript.
+- I'm improving my knowledges on JavaScript.
 - I'm learning React + Mobx, GraphQL and Next.js.
 
 ##### What are my projects right now:

@@ -12,7 +12,7 @@ Currently, I am free for any suggestions.
 
 ##### What are my projects right now:
  - [Landing pages from frontendmentor.io](https://github.com/tydusgg/frontend-mentor-works)
- - [Dev\`s Social Network using React, Express and MongoDB&Mongoose](https://github.com/tydusgg/devConnector)
+ - [Dev\`s Social Network using React, Express and MongoDB](https://github.com/tydusgg/devConnector)
 
 ##### How to reach me:
   - telegram - @nborzunov

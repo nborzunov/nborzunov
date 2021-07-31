@@ -10,7 +10,8 @@ Currently, I am free for any suggestions.
 - I'm improving my knowledges on JavaScript.
 - I'm learning React + Mobx, GraphQL and Next.js.
 
-##### What are my projects right now:
+##### What are my projects right now: 
+ - [Platform to publish blogs using NextJS, Express and MongoDB](https://github.com/tydusgg/blogx)
  - [Landing pages from frontendmentor.io](https://github.com/tydusgg/frontend-mentor-works)
  - [Dev\`s Social Network using React, Express and MongoDB](https://github.com/tydusgg/devConnector)
 

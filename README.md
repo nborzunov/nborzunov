@@ -29,6 +29,11 @@ Currently, I am open to all suggestions.
   Stack: **React, TypeScript, MobX.**  
   Period: April 2021 - May 2021
   
+- [Task from the DataArt Academy JavaScript course](https://github.com/tydusgg/dace-landing-page)  
+  Stack: **HTML, Sass, JavaScript.**  
+  Period: Marth 2021  
+  Deploy: [link](https://dace-landing-page.vercel.app/)
+  
 - [Landing pages from frontendmentor.io](https://github.com/tydusgg/frontend-mentor-works)  
   Stack: **Usually used HTML, SCSS/Sass & JavaScript without any frameworks.**  
   Period: February 2021 - April 2021

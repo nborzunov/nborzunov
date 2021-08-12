@@ -21,40 +21,28 @@ Currently, I am open to all suggestions.
 
 #### What are my projects right now: 
 
-- [Platform to publish blogs](https://github.com/tydusgg/blogx)
-
-  Stack: **Next.js, Styled-components, Express, MongoDB.**
-  
+- [Platform to publish blogs](https://github.com/tydusgg/blogx)  
+  Stack: **Next.js, Styled-components, Express, MongoDB.**  
   Period: June 2021 - Now
- 
-- [Final task from the DataArt Academy JavaScript course](https://github.com/tydusgg/to-read-list)
-
-  Stack: **React, TypeScript, MobX.**
-  
+   
+- [Final task from the DataArt Academy JavaScript course](https://github.com/tydusgg/to-read-list)  
+  Stack: **React, TypeScript, MobX.**  
   Period: April 2021 - May 2021
   
-- [Landing pages from frontendmentor.io](https://github.com/tydusgg/frontend-mentor-works)
-
-  Stack: **Usually used HTML, SCSS/Sass & JavaScript without any frameworks.**
-  
+- [Landing pages from frontendmentor.io](https://github.com/tydusgg/frontend-mentor-works)  
+  Stack: **Usually used HTML, SCSS/Sass & JavaScript without any frameworks.**  
   Period: February 2021 - April 2021
   
-- [Dev\`s Social Network](https://github.com/tydusgg/devConnector)
-
-  Stack: **React, Express, MongoDB.**
-  
+- [Dev\`s Social Network](https://github.com/tydusgg/devConnector)  
+  Stack: **React, Express, MongoDB.**  
   Period: January 2021 - February 2021
   
- - [Restaurant landing page](https://github.com/tydusgg/restaurant-layout)
- 
-   Stack: **HTML, Sass, JavaScript, Slick-slider.**
-   
-    Period: September 2020 - November 2020
+ - [Restaurant landing page](https://github.com/tydusgg/restaurant-layout)  
+   Stack: **HTML, Sass, JavaScript, Slick-slider.**  
+   Period: September 2020 - November 2020
   
-- [Portfolio landing page](https://github.com/tydusgg/portfolio)
-
-  Stack: **HTML, Sass, JavaScript.**
-  
+- [Portfolio landing page](https://github.com/tydusgg/portfolio)  
+  Stack: **HTML, Sass, JavaScript.**  
   Period: August 2020 - September 2020
 
 #### How to reach me:

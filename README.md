@@ -22,7 +22,7 @@ Currently, I am open to all suggestions.
 #### What are my projects right now: 
 
 - [Platform to publish blogs](https://github.com/tydusgg/blogx)  
-  Stack: **Next.js, Styled-components, Express, MongoDB.**  
+  Stack: **Next.js, Styled-components, Chakra-UI, Express, MongoDB.**  
   Period: June 2021 - Now
    
 - [Final task from the DataArt Academy JavaScript course](https://github.com/tydusgg/to-read-list)  

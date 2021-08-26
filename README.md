@@ -14,9 +14,10 @@ Currently, I am open to all suggestions.
 
 #### Technologies I ever worked with:
 
-- Frontend: **HTML, CSS, SCSS/Sass, JavaScript, TypeScript, React, Redux, Mobx, Next.js, Styled-components, TailwindCSS**
+- Frontend: **HTML, CSS, SCSS/Sass, JavaScript, TypeScript, React, Redux, Mobx, Next.js, Styled-components, TailwindCSS, Formik(React)**
 - Backend: **Node.js, Express**
 - Database: **MongoDB, MySQL**
+- API: **GraphQL, Apollo**
 - Utils: **Git, Github, Gulp, Vite, Webpack**
 
 #### What are my projects right now: 

@@ -3,22 +3,22 @@
 
 #### 📝 Bio:
 
-I`m an 18 years old student at ***Voronezh Institute of High Technologies*** and ***a front-end developer***.  
+I`m an 19 years ***front-end developer***.  
 Currently, I am open to all suggestions.
 
 
 #### What I am studying:
 
-- I'm improving my knowledge of JavaScript.
-- I'm learning React, Next.js, and GraphQL.
+- I'm improving my knowledge of JavaScript, Angular and Web at all.
+- I'm learning Backend developmeng with Nest.js and Postgres.
 
 #### Technologies I ever worked with:
 
-- Frontend: **HTML, CSS, SCSS/Sass, JavaScript, TypeScript, React, Redux, Mobx, Next.js, Styled-components, TailwindCSS, Formik(React)**
-- Backend: **Node.js, Express**
-- Database: **MongoDB, MySQL**
-- API: **GraphQL, Apollo**
-- Utils: **Git, Github, Gulp, Vite, Webpack**
+- **Frontend:** React (Redux, Mobx), Angular (ngrx), Next.js, TailwindCSS, MaterialUI, WebSockets
+- **Backend:** Node.js, Express
+- **Database:** MongoDB, MySQL
+- **API:** GraphQL, Apollo, OAuth2
+- **Utils:** Git, Gulp, Webpack, Github Actions CI, Firebase
 
 #### What are my projects right now: 
 

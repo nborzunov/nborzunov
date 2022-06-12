@@ -24,7 +24,7 @@ Currently, I am open to all suggestions.
 
 - [Platform to publish blogs](https://github.com/tydusgg/blogx)  
   Stack: **Next.js, Styled-components, Chakra-UI, Express, MongoDB.**  
-  Period: June 2021 - Now
+  Period: June 2021 - July 2021
    
 - [Final task from the DataArt Academy JavaScript course](https://github.com/tydusgg/to-read-list)  
   Stack: **React, TypeScript, MobX.**  

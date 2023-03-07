@@ -17,11 +17,11 @@ Currently, I am open to all suggestions.
 - Rust: Actix-web
 
 #### Technologies I ever worked with:
-- **Frontend:** React (Redux, Mobx), Angular (ngrx), ChakraUI, Next.js, TailwindCSS, MaterialUI, WebSockets
-- **Backend:** Node.js, Nest.js, Actix-web, Express
-- **Database:** MongoDB, MySQL
-- **API:** GraphQL, Apollo, OAuth2
-- **Utils:** Git, Webpack, Github Actions CI, Firebase, Docker
+- **Frontend:** HTML, CSS, React (Redux, Mobx, Next.js, Recoil, Chakra-UI, TailwindCSS), Angular (ngrx, rxjs)
+- **Backend:** Rust (actix), Python (FastAPI), Node.js (Nest.js, Express)
+- **Database:** MongoDB, MySQL, PostgreSQL
+- **API:** GraphQL, Apollo, OAuth2, WebSockets
+- **Misc:** Docker, Webpack, Vite, GitHub Actions (CI), Azure
 
 #### How to reach me:
 

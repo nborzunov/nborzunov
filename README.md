@@ -3,13 +3,13 @@
 
 #### 📝 Bio:
 
-I`m an 20 years ***front-end developer***.  
+I`m a 21-year-old ***front-end developer***.  
 Currently, I am open to all suggestions.
 
 
 #### What I am studying:
 
-- I'm improving my knowledge of JavaScript, React, Angular and Web at all.
+- I'm improving my knowledge of JavaScript, React, Angular, and Web in general.
 - I'm learning Rust as a second programming language.
 
 #### Main Skills:
